@@ -91,4 +91,3 @@ This behavior strongly suggests automated or misconfigured access rather than no
 - Correctly answered all assessment questions
 - Gained hands-on experience in internal incident investigation
 
-This repository serves as a permanent record of the work completed during the simulation.
